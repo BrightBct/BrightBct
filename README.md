@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BrightBct&row=1&column=6&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrightBct&no-frame=true&no-bg=true&margin-w=15&row=1&column=6&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
