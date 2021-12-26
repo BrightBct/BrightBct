@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **BrightBct/BrightBct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: peemapat.pod@gmail.com
 - 😄 Pronouns: Bright
 - ⚡ Fun fact: I'm just a student. :)
--->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BrightBct&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
