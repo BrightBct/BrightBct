@@ -1,18 +1,12 @@
 ### Hello everyone 👋
 
-<!-- **BrightBct/BrightBct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
 - 🔭 I’m currently working on [CLASSIFIED]
 - 🌱 I’m currently learning [CLASSIFIED]
 - 👯 I’m looking to collaborate on everyone.
 - 🤔 I’m looking for help with [CLASSIFIED]
 - 💬 Ask me about everything.
-<!-- - 📫 How to reach me: peemapat.pod@gmail.com -->
 - 😄 Pronouns: Bright
 - ⚡ Fun fact: I'm just a student. :)
-
 
 ##
 
