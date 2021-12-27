@@ -24,11 +24,8 @@ Here are some ideas to get you started: -->
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=BrightBct&count_private=true&include_all_commits=true&theme=cobalt" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrightBct&layout=compact&theme=cobalt" />
 </div>
-<!-- <br>
-<br>
-<br>
- -->
 
 ---
-<!-- <br>
-<br> -->
+
+## <img height="40" src="https://c.tenor.com/5gdedXcVBgYAAAAi/pat-hug.gif"/> Links
+[![](https://img.shields.io/badge/-linkedin-blue?style=flat-square)](https://www.linkedin.com/in/peemapat-podsoonthorn/)
