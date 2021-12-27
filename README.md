@@ -14,11 +14,11 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I'm just a student. :)
 
 
----
+##
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BrightBct&no-frame=true&no-bg=true&margin-w=15&row=1&column=6&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+##
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=BrightBct&count_private=true&include_all_commits=true&theme=cobalt" />
