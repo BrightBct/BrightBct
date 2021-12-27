@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone 👋
 
 <!-- **BrightBct/BrightBct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on everyone.
 - 🤔 I’m looking for help with [CLASSIFIED]
 - 💬 Ask me about everything.
-- 📫 How to reach me: peemapat.pod@gmail.com
+<!-- - 📫 How to reach me: peemapat.pod@gmail.com -->
 - 😄 Pronouns: Bright
 - ⚡ Fun fact: I'm just a student. :)
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started: -->
 
 ##
 
-## <img height="40" src="https://c.tenor.com/5gdedXcVBgYAAAAi/pat-hug.gif"/> Links
+## <img height="40" src="https://c.tenor.com/5gdedXcVBgYAAAAi/pat-hug.gif"/> Reach me on
 [![Linkedin Badge](https://img.shields.io/badge/-Peemapat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peemapat-podsoonthorn/)](https://www.linkedin.com/in/peemapat-podsoonthorn/)
 [![GitHub Badge](https://img.shields.io/badge/-BrightBct-0D1117?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/BrightBct/)](https://github.com/BrightBct/)
 [![Instagram Badge](https://img.shields.io/badge/-bright.bct-EF4D5C?style=flat-square&logo=Instagram&logoColor=white&link=https://github.com/BrightBct/)](https://www.instagram.com/bright.bct/)
