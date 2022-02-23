@@ -1,9 +1,9 @@
 ### Hello everyone 👋
 
-- 🔭 I’m currently working on [CLASSIFIED]
-- 🌱 I’m currently learning [CLASSIFIED]
+- 🔭 I’m currently working on Fake News Detection.
+- 🌱 I’m currently learning Ruby language
 - 👯 I’m looking to collaborate on everyone.
-- 🤔 I’m looking for help with [CLASSIFIED]
+- 🤔 I’m looking for help with Thai NLP.
 - 💬 Ask me about everything.
 - 😄 Pronouns: Bright
 - ⚡ Fun fact: I'm just a student. :)
@@ -22,6 +22,6 @@
 ##
 
 ## <img height="40" src="https://c.tenor.com/5gdedXcVBgYAAAAi/pat-hug.gif"/> Reach me on
-[![Linkedin Badge](https://img.shields.io/badge/-Peemapat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peemapat-podsoonthorn/)](https://www.linkedin.com/in/peemapat-podsoonthorn/)
+[![Linkedin Badge](https://img.shields.io/badge/-Peemapat_Podsoonthorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peemapat-podsoonthorn/)](https://www.linkedin.com/in/peemapat-podsoonthorn/)
 [![GitHub Badge](https://img.shields.io/badge/-BrightBct-0D1117?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/BrightBct/)](https://github.com/BrightBct/)
 [![Instagram Badge](https://img.shields.io/badge/-bright.bct-EF4D5C?style=flat-square&logo=Instagram&logoColor=white&link=https://github.com/BrightBct/)](https://www.instagram.com/bright.bct/)
