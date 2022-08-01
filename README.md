@@ -1,12 +1,11 @@
 ### Hello everyone 👋
 
-- 🔭 I’m currently working on Fake News Detection.
-- 🌱 I’m currently learning Ruby language
+- 🔭 I’m currently working on Thai Fake News Detection Project (Graduation Project).
+- 🌱 I’m currently learning Ruby language and learning to speak English.
 - 👯 I’m looking to collaborate on everyone.
-- 🤔 I’m looking for help with Thai NLP.
 - 💬 Ask me about everything.
 - 😄 Pronouns: Bright
-- ⚡ Fun fact: I'm just a student. :)
+- ⚡ Fun fact: I'm a fourth-year student.
 
 ##
 
