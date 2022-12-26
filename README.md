@@ -1,10 +1,9 @@
 ### Hello everyone 👋
 
-- 🔭 I’m currently working on Thai Fake News Detection Project (Graduation Project) and CLIP Model.
+- 🔭 I’m currently working on Thai Fake News Detection Project (Graduation Project) and SAGE.
 - 🌱 I’m currently learning Ruby language and learning to speak English.
 - 👯 I’m looking to collaborate on everyone.
-- 💬 Ask me about everything.
-- 😄 Pronouns: Bright
+- 💬 You can contact me at peemapat.pod@gmail.com
 - ⚡ Fun fact: I'm a fourth-year student.
 
 ##
