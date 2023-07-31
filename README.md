@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 
-- 🔭 I’m currently working on Thai Fake News Detection Project (Graduation Project) and SAGE.
+- 🔭 I’m currently working on the Thai Fake News Detection Project and Aircraft Noise.
 - 🌱 I’m currently learning Ruby language and learning to speak English.
 - 👯 I’m looking to collaborate on everyone.
 - 💬 You can contact me at peemapat.pod@gmail.com
