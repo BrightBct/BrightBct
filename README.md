@@ -1,10 +1,16 @@
 ### Hello everyone 👋
 
-- 🔭 I’m currently working on the Thai Fake News Detection Project and Aircraft Noise.
-- 🌱 I’m currently learning Ruby language and learning to speak English.
-- 👯 I’m looking to collaborate on everyone.
-- 💬 You can contact me at peemapat.pod@gmail.com
-- ⚡ Fun fact: I'm a fourth-year student.
+- 🔭 **I’m currently working on:**  
+     - **Text Falsity** 📜  
+          - Large Language Models (LLMs) 🤖  
+     - **Thai Noise** 🔊  
+          - Aircraft Noise ✈️  
+          - Noise Mapping 🗺️  
+     - **BirdCLEF Modeling** 🐦  
+- 🌱 **I’m currently learning:** Ruby programming 💎 and improving my English speaking skills 📚.  
+- 👯 **I’m looking to collaborate with:** Anyone interested in my research areas.  
+- 💬 **You can contact me at:** [peemapat.pod@gmail.com](mailto:peemapat.pod@gmail.com)  
+- ⚡ **Fun fact:** I'm a Ph.D. student at Thammasat University.  
 
 ##
 
