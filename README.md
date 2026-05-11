@@ -26,14 +26,6 @@ I'm looking to collaborate with researchers and developers working in **NLP**, *
 
 ---
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrightBct&count_private=true&include_all_commits=true&show_icons=true&theme=default&hide_border=true)](https://github.com/BrightBct)&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrightBct&layout=compact&theme=default&hide_border=true)](https://github.com/BrightBct)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=BrightBct&no-frame=true&no-bg=true&margin-w=10&row=1&column=6&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-peemapat.pod%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=4A4A4A)](mailto:peemapat.pod@gmail.com)
